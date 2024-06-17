@@ -1,0 +1,281 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Футболка",
+      "price": 29.99,
+      "quantity": 10,
+      "image": "https://www.millionpodarkov.ru/incoming_img/prezent-studio.ru/1441275.jpg",
+      "description": "Описание футболки...",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Джинсы",
+      "price": 39.99,
+      "quantity": 5,
+      "image": "https://avatars.mds.yandex.net/get-marketpic/209514/market_Ah67fStvZ8PobE2brksUrw/orig",
+      "description": "Описание джинсов...",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Куртка",
+      "price": 99.99,
+      "quantity": 3,
+      "image": "https://cdn1.ozone.ru/multimedia/c500/1021179503.jpg",
+      "description": "Описание куртки...",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Рубашка",
+      "price": 49.99,
+      "quantity": 8,
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51Cx624v5mL.jpg",
+      "description": "Описание рубашки...",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Майка",
+      "price": 19.99,
+      "quantity": 15,
+      "image": "https://img.printfact.ru/image/big/men/avto-i-moto--prochee/futbolka-brendy-148331b0.jpg",
+      "description": "Описание майки...",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Штаны",
+      "price": 59.99,
+      "quantity": 6,
+      "image": "https://static.cdek.shopping/images/shopping/Bthh1yuLlJq7CS1R.jpg",
+      "description": "Описание штанов...",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Ботинки",
+      "price": 79.99,
+      "quantity": 4,
+      "image": "https://p2.zoon.ru/3/a/5c13ca0ac202210bfc25a4d0_606573d2b49a0.jpg",
+      "description": "Описание ботинок...",
+      "sizes": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Джинсы",
+      "price": 49.99,
+      "quantity": 7,
+      "image": "https://papik.pro/uploads/posts/2021-12/1639298586_12-papik-pro-p-dzhinsi-klipart-13.jpg",
+      "description": "Описание джинсов...",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Футболка",
+      "price": 39.99,
+      "quantity": 12,
+      "image": "https://cstor.nn2.ru/userfiles/data/ufiles/2015-11/ea/d7/31/564f536da8225_14.jpg",
+      "description": "Описание футболки...",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Футболка",
+      "price": 39.99,
+      "quantity": 12,
+      "image": "https://cstor.nn2.ru/userfiles/data/ufiles/2015-11/ea/d7/31/564f536da8225_14.jpg",
+      "description": "Описание футболки...",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Футболка",
+      "price": 39.99,
+      "quantity": 12,
+      "image": "https://cstor.nn2.ru/userfiles/data/ufiles/2015-11/ea/d7/31/564f536da8225_14.jpg",
+      "description": "Описание футболки...",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Футболка",
+      "price": 39.99,
+      "quantity": 12,
+      "image": "https://cstor.nn2.ru/userfiles/data/ufiles/2015-11/ea/d7/31/564f536da8225_14.jpg",
+      "description": "Описание футболки...",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  ],
+  "favorites": [
+    {
+      "id": "3",
+      "name": "Куртка",
+      "price": 99.99,
+      "quantity": 3,
+      "image": "https://cdn1.ozone.ru/multimedia/c500/1021179503.jpg",
+      "description": "Описание куртки...",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "id": "3",
+      "name": "Куртка",
+      "price": 99.99,
+      "quantity": 1,
+      "image": "https://cdn1.ozone.ru/multimedia/c500/1021179503.jpg",
+      "description": "Описание куртки...",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "size": "XL"
+    }
+  ],
+  "orders": [
+    {
+      "id": "4e3e",
+      "address": "1лллл123лл",
+      "fullName": "Николай",
+      "paymentMethod": "payPal"
+    },
+    {
+      "id": "0b32",
+      "address": "1лллл123лл",
+      "fullName": "Николай",
+      "paymentMethod": "payPal"
+    },
+    {
+      "id": "e93b",
+      "address": "Москва, Спасо-Тушинский бр.7",
+      "fullName": "Николай",
+      "paymentMethod": "creditCard"
+    },
+    {
+      "id": "1a05",
+      "address": "Москва, Спасо-Тушинский бр.7",
+      "fullName": "Николай",
+      "paymentMethod": "cashOnDelivery"
+    },
+    {
+      "id": "d8b7",
+      "address": "Москва, Спасо-Тушинский бр.7",
+      "fullName": "Николай",
+      "paymentMethod": "payPal",
+      "cart": [],
+      "totalCost": 0
+    },
+    {
+      "id": "fca3",
+      "address": "Москва, Спасо-Тушинский бр.7",
+      "fullName": "Николай",
+      "paymentMethod": "payPal",
+      "cart": [],
+      "totalCost": 0
+    },
+    {
+      "id": "95ba",
+      "address": "Москва, Спасо-Тушинский бр.7",
+      "fullName": "Николай",
+      "paymentMethod": "creditCard",
+      "cart": [],
+      "totalCost": 0
+    },
+    {
+      "id": "16de",
+      "address": "Москва, Спасо-Тушинский бр.7",
+      "fullName": "Николай",
+      "paymentMethod": "payPal",
+      "cart": [],
+      "totalCost": 0
+    },
+    {
+      "id": "7584",
+      "address": "Москва, Спасо-Тушинский бр.7",
+      "fullName": "Николай",
+      "paymentMethod": "payPal",
+      "cart": [],
+      "totalCost": 0
+    },
+    {
+      "id": "e33e",
+      "address": "Москва, Спасо-Тушинский бр.7",
+      "fullName": "Николай",
+      "paymentMethod": "creditCard",
+      "cart": [],
+      "totalCost": 0
+    }
+  ]
+}
