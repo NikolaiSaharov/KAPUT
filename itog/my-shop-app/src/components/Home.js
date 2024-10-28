@@ -78,7 +78,7 @@ const Home = () => {
       variants={pageVariants}
     >
       <Header />
-
+<meta name="yandex-verification" content="f28c30ce5fedde70" />
       <div className='about-section'>
         <h1>Добро пожаловать в магазин "Holocoste"</h1>
         <p>Это домашняя страница нашего магазина.</p>
